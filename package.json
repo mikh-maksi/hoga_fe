@@ -1,0 +1,24 @@
+{
+  "name": "hoga_fe",
+  "version": "1.0.0",
+  "description": "hoga_fe",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikh-maksi/hoga_fe.git"
+  },
+  "keywords": [
+    "hoga"
+  ],
+  "author": "mikh-maksi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikh-maksi/hoga_fe/issues"
+  },
+  "homepage": "https://github.com/mikh-maksi/hoga_fe#readme"
+}
